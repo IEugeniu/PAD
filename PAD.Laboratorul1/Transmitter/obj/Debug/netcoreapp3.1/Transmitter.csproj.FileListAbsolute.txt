@@ -1,0 +1,17 @@
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\bin\Debug\netcoreapp3.1\Common.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\obj\Debug\netcoreapp3.1\Transmitter.csprojAssemblyReference.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\obj\Debug\netcoreapp3.1\Transmitter.AssemblyInfoInputs.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\obj\Debug\netcoreapp3.1\Transmitter.AssemblyInfo.cs
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\bin\Debug\netcoreapp3.1\Transmitter.exe
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\bin\Debug\netcoreapp3.1\Transmitter.deps.json
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\bin\Debug\netcoreapp3.1\Transmitter.runtimeconfig.json
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\bin\Debug\netcoreapp3.1\Transmitter.runtimeconfig.dev.json
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\bin\Debug\netcoreapp3.1\Transmitter.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\bin\Debug\netcoreapp3.1\Transmitter.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\bin\Debug\netcoreapp3.1\Common.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\obj\Debug\netcoreapp3.1\Transmitter.csproj.CoreCompileInputs.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\obj\Debug\netcoreapp3.1\Transmitter.csproj.CopyComplete
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\obj\Debug\netcoreapp3.1\Transmitter.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\obj\Debug\netcoreapp3.1\Transmitter.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Transmitter\obj\Debug\netcoreapp3.1\Transmitter.genruntimeconfig.cache
