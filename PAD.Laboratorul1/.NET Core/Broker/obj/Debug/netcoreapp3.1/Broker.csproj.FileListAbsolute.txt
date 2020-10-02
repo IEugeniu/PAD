@@ -1,0 +1,17 @@
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\bin\Debug\netcoreapp3.1\Broker.exe
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\bin\Debug\netcoreapp3.1\Broker.deps.json
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.json
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\bin\Debug\netcoreapp3.1\Broker.runtimeconfig.dev.json
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\bin\Debug\netcoreapp3.1\Broker.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\bin\Debug\netcoreapp3.1\Broker.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\bin\Debug\netcoreapp3.1\Common.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\bin\Debug\netcoreapp3.1\Common.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\obj\Debug\netcoreapp3.1\Broker.csprojAssemblyReference.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CoreCompileInputs.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfoInputs.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\obj\Debug\netcoreapp3.1\Broker.AssemblyInfo.cs
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\obj\Debug\netcoreapp3.1\Broker.csproj.CopyComplete
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\obj\Debug\netcoreapp3.1\Broker.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\obj\Debug\netcoreapp3.1\Broker.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\Broker\obj\Debug\netcoreapp3.1\Broker.genruntimeconfig.cache

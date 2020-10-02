@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Cuper\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Cuper\\.nuget\\packages"
+    ]
+  }
+}
