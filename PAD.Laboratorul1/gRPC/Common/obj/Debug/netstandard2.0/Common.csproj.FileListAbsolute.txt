@@ -14,3 +14,12 @@ C:\Users\Cuper\Desktop\Agent Grpc\Common\obj\Debug\netstandard2.0\Common.Assembl
 C:\Users\Cuper\Desktop\Agent Grpc\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
 C:\Users\Cuper\Desktop\Agent Grpc\Common\obj\Debug\netstandard2.0\Common.dll
 C:\Users\Cuper\Desktop\Agent Grpc\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\gRPC\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\University\Anul IV\Pad\PAD.Laboratorul1\gRPC\Common\bin\Debug\netstandard2.0\Common.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\gRPC\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\gRPC\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\gRPC\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\gRPC\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\gRPC\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\University\Anul IV\Pad\PAD.Laboratorul1\gRPC\Common\obj\Debug\netstandard2.0\Common.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\gRPC\Common\obj\Debug\netstandard2.0\Common.pdb

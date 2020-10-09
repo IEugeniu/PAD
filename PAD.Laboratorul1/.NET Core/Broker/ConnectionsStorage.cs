@@ -49,6 +49,17 @@ namespace Broker
                return selectedConnections;
           }
 
+          public static List<ConnectionInfo> GetConnections()
+          {
+               List<ConnectionInfo> selectedConnections;
+               lock (_locker)
+               {
+                    selectedConnections = _connections;
+               }
+
+               return selectedConnections;
+          }
+
           public static bool ExistConnections()
           {
                return _connections.Any();

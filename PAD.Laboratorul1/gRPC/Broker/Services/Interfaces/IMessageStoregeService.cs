@@ -2,12 +2,13 @@
 
 namespace Broker.Services.Interfaces
 {
-    public interface IMessageStoregeService
-    {
-        void Add(Message message);
+     public interface IMessageStoregeService
+     {
+          void Add(Message message);
 
-        Message GetNext();
+          Message GetNext();
 
-        bool IsEmpty();
-    }
+          public string CheckNextTopic();
+          bool IsEmpty();
+     }
 }

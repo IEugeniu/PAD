@@ -6,3 +6,11 @@ D:\University\Anul IV\Pad\PAD.Laboratorul1\Common\obj\Debug\netcoreapp3.1\Common
 D:\University\Anul IV\Pad\PAD.Laboratorul1\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
 D:\University\Anul IV\Pad\PAD.Laboratorul1\Common\obj\Debug\netcoreapp3.1\Common.dll
 D:\University\Anul IV\Pad\PAD.Laboratorul1\Common\obj\Debug\netcoreapp3.1\Common.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\.NET Core\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+D:\University\Anul IV\Pad\PAD.Laboratorul1\.NET Core\Common\bin\Debug\netcoreapp3.1\Common.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\.NET Core\Common\bin\Debug\netcoreapp3.1\Common.pdb
+D:\University\Anul IV\Pad\PAD.Laboratorul1\.NET Core\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\.NET Core\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\University\Anul IV\Pad\PAD.Laboratorul1\.NET Core\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\University\Anul IV\Pad\PAD.Laboratorul1\.NET Core\Common\obj\Debug\netcoreapp3.1\Common.dll
+D:\University\Anul IV\Pad\PAD.Laboratorul1\.NET Core\Common\obj\Debug\netcoreapp3.1\Common.pdb

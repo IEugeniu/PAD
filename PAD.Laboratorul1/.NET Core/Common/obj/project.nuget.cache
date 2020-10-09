@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t5ARkF6M1XcKIME63tO1rURZmzQgWCtnb61d609sq5gwZJAMJcICTaxPuHCe06vku9gseJlngUYxs7takaHHMQ==",
+  "dgSpecHash": "LeJUnkOtSWntubZmqykO3M4ap8vNuvBxo9dI+N9wjK6ekHw/VF72D3bLVPJU9U3Ei6A6S7FH29EpH8QUoQB+Gg==",
   "success": true,
-  "projectFilePath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj",
+  "projectFilePath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Sender\\Sender.csproj": {}
+    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Sender\\Sender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Common\\Common.csproj": {
+    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\Cuper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Common\\obj\\",
+        "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Cuper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,21 +72,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Sender\\Sender.csproj": {
+    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Sender\\Sender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Sender\\Sender.csproj",
+        "projectUniqueName": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Sender\\Sender.csproj",
         "projectName": "Sender",
-        "projectPath": "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Sender\\Sender.csproj",
-        "packagesPath": "C:\\Users\\Cuper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Sender\\obj\\",
+        "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Sender\\Sender.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Sender\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Cuper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,8 +102,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Cuper\\Desktop\\Agent Grpc\\Common\\Common.csproj"
+              "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Common\\Common.csproj": {
+                "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\gRPC\\Common\\Common.csproj"
               }
             }
           }
@@ -135,7 +141,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

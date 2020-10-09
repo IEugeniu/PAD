@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Broker\\Broker.csproj": {}
+    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Broker\\Broker.csproj": {}
   },
   "projects": {
-    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Broker\\Broker.csproj": {
+    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Broker\\Broker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Broker\\Broker.csproj",
+        "projectUniqueName": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Broker\\Broker.csproj",
         "projectName": "Broker",
-        "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Broker\\Broker.csproj",
+        "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Broker\\Broker.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Broker\\obj\\",
+        "outputPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Broker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj": {
-                "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj"
+              "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj": {
+                "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj": {
+    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj",
+        "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\obj\\",
+        "outputPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

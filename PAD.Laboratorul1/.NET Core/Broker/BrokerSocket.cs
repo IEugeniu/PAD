@@ -1,6 +1,7 @@
 ﻿using Common;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -85,6 +86,15 @@ namespace Broker
                     {
                          Console.WriteLine($"{e.Message}");
                          var address = connection.Socket.RemoteEndPoint.ToString();
+
+                         Payload payload = new Payload()
+                         {
+                              type = "end",
+                              topic = "publisher-end",
+                              post = Settings.LAST_WILL_MESSAGE
+                         };
+
+                         PayloadStorage.Add(payload);
 
                          ConnectionsStorage.Remove(address);
                          connection.Socket.Close();

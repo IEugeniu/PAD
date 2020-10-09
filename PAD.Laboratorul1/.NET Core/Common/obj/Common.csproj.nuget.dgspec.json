@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj": {}
+    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj": {
+    "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\Common.csproj",
+        "projectPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\Common\\obj\\",
+        "outputPath": "D:\\University\\Anul IV\\Pad\\PAD.Laboratorul1\\.NET Core\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

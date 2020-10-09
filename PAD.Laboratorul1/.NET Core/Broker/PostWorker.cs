@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using Common;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -13,13 +14,18 @@ namespace Broker
           {
                while(true)
                {
-                    while(!PayloadStorage.IsEmpty() && ConnectionsStorage.ExistConnections())
+                    while(!PayloadStorage.IsEmpty() && ConnectionsStorage.ExistConnections() 
+                         && (ConnectionsStorage.GetConnectionsByTopic(PayloadStorage.CheckNextTopic()).Count != 0 || PayloadStorage.CheckNextTopic() == "publisher-end"))
                     {
                          var payload = PayloadStorage.GetNext();
 
                          if(payload != null)
                          {
                               var connections = ConnectionsStorage.GetConnectionsByTopic(payload.topic);
+                              if (payload.type == "end")
+                              {
+                                   connections = ConnectionsStorage.GetConnections();
+                              }
 
                               foreach (var connection in connections)
                               {
@@ -29,6 +35,7 @@ namespace Broker
                                    connection.Socket.Send(data);
                               }
                          }
+
                     }
                     Thread.Sleep(TIME_TO_SLEEP);
                }
