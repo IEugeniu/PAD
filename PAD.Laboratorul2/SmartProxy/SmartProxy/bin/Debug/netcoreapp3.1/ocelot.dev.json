@@ -1,0 +1,47 @@
+{
+     "Routes": [
+          {
+               "DownstreamPathTemplate": "/songs",
+               "DownstreamScheme": "http",
+               "DownstreamHostAndPorts": [
+                    {
+                         "Host": "localhost",
+                         "Port": 8081
+                    },
+                    {
+                         "Host": "localhost",
+                         "Port": 8082
+                    }
+               ],
+               "UpstreamPathTemplate": "/api/songs",
+               "LoadBalancerOptions": {
+                    "Type": "RoundRobin"
+               },
+               "UpstreamHttpMethod": [ "Get", "Post" ],
+               "FileCacheOptions": { "TtlSeconds": 3 }
+          },
+          {
+               "DownstreamPathTemplate": "/songs/{id}",
+               "DownstreamScheme": "http",
+               "DownstreamHostAndPorts": [
+                    {
+                         "Host": "localhost",
+                         "Port": 8081
+                    },
+                    {
+                         "Host": "localhost",
+                         "Port": 8082
+                    }
+               ],
+               "UpstreamPathTemplate": "/api/songs/{id}",
+               "LoadBalancerOptions": {
+                    "Type": "RoundRobin"
+               },
+               "UpstreamHttpMethod": [ "Delete", "Put" ],
+               "FileCacheOptions": { "TtlSeconds": 3 }
+          }
+     ],
+     "GlobalConfiguration": {
+          "BaseUrl": "https://localhost:5021"
+     }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PAD.Laboratorul2.iml" filepath="$PROJECT_DIR$/.idea/PAD.Laboratorul2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PAD-LAB2-main/cloud-registry-demo/cloud-registry-demo.iml" filepath="$PROJECT_DIR$/PAD-LAB2-main/cloud-registry-demo/cloud-registry-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PAD-LAB2-main/music-client/music-client.iml" filepath="$PROJECT_DIR$/PAD-LAB2-main/music-client/music-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PAD-LAB2-main/music-service1/music-service1.iml" filepath="$PROJECT_DIR$/PAD-LAB2-main/music-service1/music-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PAD-LAB2-main/music-service2.iml" filepath="$PROJECT_DIR$/PAD-LAB2-main/music-service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PAD-LAB2-main/music-service2/music-service2 (1) (com.samples.springcloud).iml" filepath="$PROJECT_DIR$/PAD-LAB2-main/music-service2/music-service2 (1) (com.samples.springcloud).iml" />
+    </modules>
+  </component>
+</project>

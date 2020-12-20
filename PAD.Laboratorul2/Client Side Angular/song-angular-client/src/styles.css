@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.backdropBackground {
+    filter: blur(20px);
+    background-color: #caa4a4;
+    opacity: 0.7 !important;
+}
+
+.mat-dialog-container {
+    background-color: burlywood;
+}
+
+body {
+    background-image: url("./assets/images/background-image.jpg");
+    background-color: #cccccc;
+}

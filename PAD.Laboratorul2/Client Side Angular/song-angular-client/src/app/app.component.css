@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Comic Sans MS";
+    color:  rgb(204, 152, 84);
+}
+
+.div-size {
+    width: 50%;
+}
+
+table{
+    width: 100%;
+    font-family: "Comic Sans MS";
+    background-color: burlywood;
+}
+
+mat-paginator {
+    background-color: rgb(219, 174, 115);
+}
+
+.center-vertically-and-horizontally {
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.border {
+    border: 3px solid #3f51b5;
+    margin-bottom: 300px;
+}
+
+.mat-header-cell {
+    text-align: center;
+    justify-content: center;
+}
+  
+.mat-cell {
+    text-align: center;
+    justify-content:center;
+}

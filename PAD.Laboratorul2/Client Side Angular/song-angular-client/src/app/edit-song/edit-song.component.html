@@ -1,0 +1,61 @@
+<button  mat-raised-button (click)="onClose()" style="float: right;">
+    <mat-icon>close</mat-icon>
+</button>
+<div style="text-align: center; margin-left: 50px;">
+    <div>
+        <h4>Edit Song</h4>
+    </div>
+</div>
+
+
+<div style="overflow: auto; text-align: center;">
+
+    <div class="mt-4 input-group">
+        
+        <form novalidate [formGroup]="songForm">
+
+            <mat-form-field class="example-full-width">
+            <mat-label>Artist</mat-label>
+            <input 
+            matInput
+            required 
+            type="text"
+            placeholder="Name" 
+            class="form-control" 
+            name="artist"
+            formControlName="artist">
+            </mat-form-field>  
+            <br>
+            
+            <mat-form-field class="example-full-width">
+            <mat-label>Name</mat-label>
+            <input
+            matInput
+            required 
+            type="text"
+            placeholder="Name" 
+            class="form-control" 
+            name="name"
+            formControlName="name">
+            </mat-form-field>  
+            <br>
+
+            <mat-form-field class="example-full-width">
+            <mat-label>Year</mat-label>
+            <input
+            matInput
+            type="number"
+            placeholder="year" 
+            class="form-control" 
+            name="year"
+            formControlName="year">
+            </mat-form-field>  
+            <br>
+    
+        </form>
+
+    </div>
+    <div style="margin-top: 20px;">
+        <button mat-raised-button color="warn" (click)="onEdit()" style="margin-right: 30px;">Edit</button>
+    </div>
+</div>
